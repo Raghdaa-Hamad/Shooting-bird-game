@@ -1,0 +1,107 @@
+body {
+    background-image: url("./images/1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.Div1 {
+    text-align: center;
+    position: relative;
+    border-width: 10px;
+    margin-left: 40%;
+    margin-right: 40%;
+    background-color: lightgray;
+    opacity: 0.6;
+    padding: 10px 5px;
+    border-radius: 10px;
+}
+
+.Div2 {
+    text-align: center;
+    position: relative;
+    border-width: 10px;
+    margin-left: 40%;
+    margin-right: 40%;
+    background-color: lightgray;
+    opacity: 0.6;
+    padding: 10px 5px;
+    top: 80px;
+    border-radius: 10px;
+}
+
+.Text {
+    font-weight: bolder;
+    margin-top: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.Gamelevel {
+    font-weight: bold;
+    margin-top: 15px;
+    cursor: pointer;
+    font-size: 15px;
+    width: 100px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+.start {
+    background-color: #c6b7a0;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+    border-radius: 10px;
+    top: 10px;
+    margin-top: 20px;
+}
+
+.name {
+    background-color: #c6b7a0;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+.images {
+    width: 70px;
+}
+
+.bird1 {
+    display: inline-block;
+    font-size: 25px;
+    color: red;
+    font-weight: bolder;
+    opacity: 3;
+}
+
+.bird2 {
+    display: inline-block;
+    font-size: 25px;
+    color: orange;
+    font-weight: bolder;
+    opacity: 3;
+}
+
+.bird3 {
+    display: inline-block;
+    font-size: 25px;
+    color: darkblue;
+    font-weight: bolder;
+    opacity: 3;
+}
+
+span {
+    opacity: 0.5;
+}
+
+.Gobtn {
+    border-radius: 15px;
+    width: 70px;
+    opacity: 0.8;
+}

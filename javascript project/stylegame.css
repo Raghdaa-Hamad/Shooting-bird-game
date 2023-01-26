@@ -1,0 +1,59 @@
+body {
+    background-image: url('./images/2.jpg');
+    position: relative;
+    background-repeat: no-repeat;
+}
+
+.container {
+    background-color: rgb(236, 232, 226);
+    opacity: 0.5;
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    margin: auto;
+    margin-top: 50px;
+    padding-top: 30px;
+    border-radius: 30px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    width: 120px;
+    height: 40px;
+    border-radius: 15px;
+}
+
+.data {
+    background-color: rgb(145, 220, 132);
+    color: white;
+    border-radius: 10px;
+    width: 150px;
+    height: 30px;
+    margin-right: 50px;
+    font-weight: bolder;
+    font-size: larger;
+    opacity: 0.9;
+    display: inline-block;
+    text-align: left;
+}
+
+.gameimg {
+    width: 200px;
+}
+
+#message {
+    text-align: center;
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    display: none;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+#message img {
+    opacity: 0.7;
+    width: 500px;
+    height: 350px;
+}
